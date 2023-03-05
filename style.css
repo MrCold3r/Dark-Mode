@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body.light {
+	background-color: #ffffff;
+
+}
+
+body.dark {
+	background-color: #263238;
+
+}
+
+.lurji.light{
+    color: black;
+}
+
+.lurji.dark{
+    color: #2c6def;
+}
+
+.gialurji.light{
+    color: black;
+}
+
+.gialurji.dark{
+    color: #2058e2;
+}
+
+.tetri.light{
+    color: gray;
+}
+
+.tetri.dark{
+    color: white;
+}
+
+.card-body h2{
+    color: #2c6def;
+}
+
+.card a{
+    background-color: rgb(19, 2, 127);
+    border: none;
+}
+
+.modebtn{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 20px;
+    margin-bottom: -30px;
+}
+
+.cards{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.form-check{
+    font-size: 30px;
+    padding-bottom: 50px;
+}
+
+.card{
+    border: none;
+    background-color: transparent;
+}
+
+.card p{
+    font-size: 12px;
+}
+
+.firstphoto{
+    margin-top: 15px;
+}
+
+.txt{
+    font-size: 18px;
+    color: black;
+}
